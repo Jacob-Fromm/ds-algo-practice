@@ -1,2 +1,2 @@
 # ds-algo-practice
-a repository for practice code related to data structures and algorithms
+This is my repository for practice exercises related to data structures and algorithms.
